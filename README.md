@@ -6,6 +6,9 @@
 List of algorithms so far:
 
 1. absoluteValuesSumMinization:
-`
+
 The purpose of this algorithm is to return the value which is in the middle of the array.
-`
+
+2. add:
+The purpose of this algorithm is to take a any amount of input put it in an array and
+add them all. :smiley:
