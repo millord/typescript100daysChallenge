@@ -10,5 +10,11 @@ List of algorithms so far:
 The purpose of this algorithm is to return the value which is in the middle of the array.
 
 2. add:
+
 The purpose of this algorithm is to take a any amount of input put it in an array and
 add them all. :smiley:
+
+3. addBorder:
+
+The purpose of this algorithm is to make a border at the beginning and bend of a array of strings.
+add them all. :grin:
