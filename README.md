@@ -18,3 +18,8 @@ add them all. :smiley:
 
 The purpose of this algorithm is to make a border at the beginning and bend of a array of strings.
 add them all. :grin:
+
+3. addTwoDigits:
+
+The purpose of this algorithm is to take a two digt number and add each digit, so if you addTwoDigits(29) you will get 11.
+add them all. :smirk:
