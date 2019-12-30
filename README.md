@@ -23,3 +23,7 @@ add them all. :grin:
 
 The purpose of this algorithm is to take a two digt number and add each digit, so if you addTwoDigits(29) you will get 11.
 add them all. :smirk:
+
+5. adjacentElementsProducts:
+
+This algorithm is about given an array of integers, find the pair of adjacent elements that has the largest product and return that product. :smiley:
