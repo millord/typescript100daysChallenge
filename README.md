@@ -27,3 +27,7 @@ add them all. :smirk:
 5. adjacentElementsProducts:
 
 This algorithm is about given an array of integers, find the pair of adjacent elements that has the largest product and return that product. :smiley:
+
+6. allLongestStrings:
+
+Given an array of strings, return another array containing all of its longest strings.. :smiley:
