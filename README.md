@@ -38,4 +38,4 @@ Given an array of numbers, determine whether is possible to obtain a strictly in
 
 8. alphabeticShifte:
 
-Given a string, replace each its character by the next one in the English al. :wink:
+Given a string, replace each its character by the next one in the English alphabet. :wink:
