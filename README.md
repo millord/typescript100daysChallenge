@@ -31,3 +31,11 @@ This algorithm is about given an array of integers, find the pair of adjacent el
 6. allLongestStrings:
 
 Given an array of strings, return another array containing all of its longest strings.. :smiley:
+
+7. almostIncreasingSequence:
+
+Given an array of numbers, determine whether is possible to obtain a strictly increasing sequence by removing no more than one element from the array.. :wink:
+
+8. alphabeticShift:
+
+Given a string, replace each its character by the next one in the English alphabet. :wink:
