@@ -36,6 +36,6 @@ Given an array of strings, return another array containing all of its longest st
 
 Given an array of numbers, determine whether is possible to obtain a strictly increasing sequence by removing no more than one element from the array.. :wink:
 
-8. alphabeticShifte:
+8. alphabeticShift:
 
 Given a string, replace each its character by the next one in the English alphabet. :wink:
