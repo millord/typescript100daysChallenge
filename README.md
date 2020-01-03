@@ -39,3 +39,7 @@ Given an array of numbers, determine whether is possible to obtain a strictly in
 8. alphabeticShift:
 
 Given a string, replace each its character by the next one in the English alphabet. :wink:
+
+9. alphabetSubsequence:
+
+Check whether the given string is a subsequence of the plaintext alphabet. :wink:
