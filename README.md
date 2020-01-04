@@ -39,3 +39,11 @@ Given an array of numbers, determine whether is possible to obtain a strictly in
 8. alphabeticShift:
 
 Given a string, replace each its character by the next one in the English alphabet. :wink:
+
+9. alphabetSubsequence:
+
+Check whether the given string is a subsequence of the plaintext alphabet. :wink:
+
+10. alternatingSums:
+
+You are given an array of positive integers - the weights of the people. Return an array ot two integers, where the first element is the total weight of team 1, and the second element is the total weight of team 2 after the division is complete.:grin:
