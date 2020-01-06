@@ -53,3 +53,9 @@ You are given an array of positive integers - the weights of the people. Return 
 
 Given your and your friend's arms' lifting capabilitiesf find out if you two are equally strong
 .:grin:
+
+
+12. areSimilar:
+
+Given two arrays a and b, checke whether   they are similarf
+. :wink:
