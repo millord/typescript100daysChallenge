@@ -47,3 +47,15 @@ Check whether the given string is a subsequence of the plaintext alphabet. :wink
 10. alternatingSums:
 
 You are given an array of positive integers - the weights of the people. Return an array ot two integers, where the first element is the total weight of team 1, and the second element is the total weight of team 2 after the division is complete.:grin:
+
+
+11. areEquallyStrong:
+
+Given your and your friend's arms' lifting capabilitiesf find out if you two are equally strong
+.:grin:
+
+
+12. areSimilar:
+
+Given two arrays a and b, checke whether   they are similarf
+. :wink:
