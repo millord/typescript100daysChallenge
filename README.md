@@ -59,3 +59,8 @@ Given your and your friend's arms' lifting capabilitiesf find out if you two are
 
 Given two arrays a and b, checke whether   they are similarf
 . :wink:
+
+13. arrayChange:
+
+You are given an array of integers. On each move you are allowed to increase exactly one of its elements by one. Find the minimal number o moves required to obtain a strictly increasing sequencefrom the input. :grin:
+. :wink:
