@@ -1,5 +1,5 @@
 # TypeScript - Algorithms 100 days of challenge
-100 days of challenge doing algorithms with TypeScript. 
+100 days challenge doing algorithms with TypeScript. 
 
 ## I will commit 1 algorithm in TypeScript everyday.
 
