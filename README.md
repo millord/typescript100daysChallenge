@@ -64,3 +64,10 @@ Given two arrays a and b, checke whether   they are similarf
 
 You are given an array of integers. On each move you are allowed to increase exactly one of its elements by one. Find the minimal number o moves required to obtain a strictly increasing sequencefrom the input. :grin:
 . :wink:
+
+14. arrayConversion:
+
+Given an array of 2k integers (for some integer k), perform the following operations until the array contains only one element.
+
+On the 1st, 3th 5th etc. iterations (1-based) replace each pair of consecutive elements with their sum;
+On the 2nd, 4th, 6th etc iterations replace each pair  of consecutive elements with their product. After the algorithm has finished, there will be a single element left in the array. Return  that element. :relieved:
