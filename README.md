@@ -71,3 +71,7 @@ Given an array of 2k integers (for some integer k), perform the following operat
 
 On the 1st, 3th 5th etc. iterations (1-based) replace each pair of consecutive elements with their sum;
 On the 2nd, 4th, 6th etc iterations replace each pair  of consecutive elements with their product. After the algorithm has finished, there will be a single element left in the array. Return  that element. :relieved:
+
+15. arrayMaxConsecutiveSum:
+
+Given an array of integers, find the maximal possible sum of some of its k consecutive element.:wink:
