@@ -75,3 +75,7 @@ On the 2nd, 4th, 6th etc iterations replace each pair  of consecutive elements w
 15. arrayMaxConsecutiveSum:
 
 Given an array of integers, find the maximal possible sum of some of its k consecutive element.:wink:
+
+16. arrayMaximaAdjacentDifference:
+
+Given an array of integers, find the maximal absolute difference between any two of its adjacent elements.:wink:
